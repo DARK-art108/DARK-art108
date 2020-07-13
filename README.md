@@ -15,11 +15,25 @@ My Technical Stack Distribution 📊
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
-</p>
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kot.png"  height="70" />
+  </a>
+ </p>
   
-  ### Frontend 
+  ### Frontend+Backend+Database
   <p float="left>
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
+   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/bt.png"  height="70" />
+  </a>
+   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/giphy.gif"  height="70" />
+  </a>
+   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/exp.png"  height="70" />
+  </a>
+
+  
   </p>
