@@ -15,12 +15,7 @@ My Technical Stack Distribution 📊
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
-  
-  
-  
-  
-  
-  </p>
+</p>
   
   ### Frontend 
   <p float="left>
