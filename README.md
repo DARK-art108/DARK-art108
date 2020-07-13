@@ -35,4 +35,19 @@ My Technical Stack Distribution 📊
    <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/mongo.gif"  height="70"  />
   </a>
-</p>
+   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/and.png"  height="70"  />
+  </a>
+  </p>
+
+### Devops
+  <p float="left>
+    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="70" />
+  </a>
+    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70" />
+  </a>
+
+
+
