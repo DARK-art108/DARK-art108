@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ritesh Yadav!
 
-I am [Ritesh](https://sourcerer.io/dark-art108), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯
+I am [Ritesh](https://riteshyadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯
 
 I ❤️ to create Android Application and to train Machine Learning🤖 and Deep Learning Models and Networks🕸.I have a 1+ year of Experience in creating Android Application with Clean architecture and Best Practices,currently I am engaged in learning Deep Learning and Taking part in Kaggle Competitions🏆,I am a Kaggle 3X Expert and also a part of various technical organization's. 🚀
 
@@ -56,7 +56,7 @@ My Technical Stack Distribution 📊
   
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Portfolio](https://sourcerer.io/dark-art108) 🌐 <br>
+  ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav-a2a6a818b/) 👨🏻‍💻 <br>
