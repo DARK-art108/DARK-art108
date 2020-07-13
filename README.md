@@ -47,7 +47,7 @@ My Technical Stack Distribution 📊
   </a>
     <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="70" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
     <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
   </a>
