@@ -21,6 +21,7 @@ My Technical Stack Distribution 📊
  </p>
   
   ### Frontend+Backend+Database
+  
   <p float="left>
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
@@ -29,7 +30,9 @@ My Technical Stack Distribution 📊
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/bt.png"  height="70" />
   </a>
    <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/asa.gif"  height="70" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/asa.gif"  height="92"  />
   </a>
-
-  </p>
+   <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/mongo.gif"  height="70"  />
+  </a>
+</p>
