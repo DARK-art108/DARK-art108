@@ -29,11 +29,7 @@ My Technical Stack Distribution 📊
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/bt.png"  height="70" />
   </a>
    <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/giphy.gif"  height="70" />
-  </a>
-   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/exp.png"  height="70" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/asa.gif"  height="70" />
   </a>
 
-  
   </p>
