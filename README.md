@@ -50,6 +50,9 @@ My Technical Stack Distribution 📊
   </a>&nbsp;
     <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>&nbsp;
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/netlify.png" height="70" />
   </a>
   </p>
   
