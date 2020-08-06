@@ -38,6 +38,10 @@ My Technical Stack Distribution 📊
    <a href="https://developer.android.com/studio" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/and.png"  height="70"  />
   </a>
+   </a>&nbsp
+   <a href="https://developer.android.com/studio" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/logo.png"  height="70"  />
+  </a>
   </p>
 
 ### Devops
