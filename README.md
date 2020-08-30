@@ -65,18 +65,10 @@ My Technical Stack Distribution 📊
   
   [![Top Langs](https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  <!--START_SECTION:activity-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <!--END_SECTION:activity-->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   
 ### 📫 How to reach me? 
 
