@@ -70,17 +70,6 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
-  ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
-
-
-
-
-<!--END_SECTION:activity-->
-  
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
