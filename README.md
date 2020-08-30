@@ -67,6 +67,17 @@ My Technical Stack Distribution 📊
   
   <!--START_SECTION:activity-->
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!--END_SECTION:activity-->
+  
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
