@@ -4,6 +4,8 @@ I am [Ritesh](https://riteshyadav.netlify.app/), a passionate and creative devel
 
 I ❤️ to create Android Application and to train Machine Learning🤖 and Deep Learning Models and Networks🕸.I have a 1+ year of Experience in creating Android Application with Clean architecture and Best Practices,currently I am engaged in learning Deep Learning and Taking part in Kaggle Competitions🏆,I am a Kaggle 3X Expert and also a part of various technical organization's. 🚀
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="320" />
+
 :zap:**My Technical Stack Distribution** 📊
 
 ### Programing Languages
@@ -19,7 +21,7 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kot.png"  height="70" />
   </a>
  </p>
-  
+ 
   ### Frontend+Backend+Database
   
   <p float="left>
@@ -61,12 +63,23 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
   </p>
   
   ### My Stats🚩
-  ![Ritesh github stats](https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical)
   
-  [![Top Langs](https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
+
+</details>
+
+  <details>
+<summary>📈 My Top Langs</summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
+
+</details>
   
 
-  ### Spotify Playing 🎧
+### Spotify Playing 🎧
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
