@@ -65,7 +65,8 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
   
   [![Top Langs](https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/	316jsag3fisl42rcnnssu7jersee)
+[<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />]
+(https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
 ### :zap: Recent Activity
