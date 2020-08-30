@@ -44,6 +44,9 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
    <a href="https://developer.android.com/studio" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/logo.png"  height="70"  />
   </a>
+   <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/dann.webp"  height="70"  />
+  </a>
   </p>
 
 ### Devops
