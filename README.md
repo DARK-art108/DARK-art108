@@ -61,9 +61,9 @@ My Technical Stack Distribution 📊
   </p>
   
   ### My Stats
-  ![Ritesh github stats](https://github-readme-stats.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical)
+  ![Ritesh github stats](https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
 ### 📫 How to reach me? 
