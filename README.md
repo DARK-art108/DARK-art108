@@ -60,11 +60,12 @@ My Technical Stack Distribution 📊
   </a>
   </p>
   
-  ### My Stats
+  ### My Stats🚩
   ![Ritesh github stats](https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical)
   
   [![Top Langs](https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
+  <!--START_SECTION:activity-->
   
 ### 📫 How to reach me? 
 
@@ -73,6 +74,5 @@ My Technical Stack Distribution 📊
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav-a2a6a818b/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
-
 
 
