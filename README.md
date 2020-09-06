@@ -81,16 +81,6 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
 
 </details>
 
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
   
 ### Spotify Playing 🎧
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
