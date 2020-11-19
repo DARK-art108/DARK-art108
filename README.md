@@ -91,7 +91,7 @@ I ❤️ to create Android Application and to train Machine Learning🤖 and Dee
   ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav-a2a6a818b/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
 
 
