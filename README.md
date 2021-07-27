@@ -84,14 +84,14 @@ Along with my full-time job, I also work in maintaining and building open source
   ## 📊 Github Stats (Expand to View) 
   
   <details>
-<summary>💻 GitHub Profile Stats</summary>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
 
 <p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
 
 </details>
 
   <details>
-<summary>📈 My Top Languages</summary>
+  <summary><b>📈 My Top Languages</b></summary>
 
 <p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
 
