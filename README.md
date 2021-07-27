@@ -11,7 +11,9 @@ I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I
 
 Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
 
-<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+
+<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="400">
 
 ## :zap: Skills
 
@@ -42,13 +44,13 @@ Along with my full-time job, I also work in maintaining and building open source
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
   </a>
   <a href="www.tensorflow.org" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="80" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="70" />
   </a>
   <a href="https://pytorch.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="80" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="70" />
   </a>
   <a href="https://www.kubeflow.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="80" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
   </a>
 </p>
 
@@ -77,35 +79,44 @@ Along with my full-time job, I also work in maintaining and building open source
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
- </p>
+
   
-  ### My Stats🚩
+  ## 📊 Github Stats (Expand to View) 
   
   <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>💻 GitHub Profile Stats</summary>
 
 <p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
 
 </details>
 
   <details>
-<summary>📈 My Top Langs</summary>
+<summary>📈 My Top Languages</summary>
 
 <p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
 
 </details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/DARK-art108"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DARK-art108&theme=dracula" /></a>
+  <br/>
+
+</details>
+
   
-### Spotify Playing 🎧
-  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
+## 🎧 Spotify Playing 
+  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="550" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
-### 📫 How to reach me? 
+## 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/RiteshYadav_1) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
 
 
