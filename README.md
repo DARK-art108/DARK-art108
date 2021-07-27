@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ritesh Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Ritesh](https://riteshyadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
+I am [Ritesh](https://ritesh-yadav.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
 
@@ -112,7 +112,7 @@ Along with my full-time job, I also work in maintaining and building open source
   
 ## 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://riteshyadav.netlify.app/) 🌐 <br>
+  ⦿ Visit my [Website](https://ritesh-yadav.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
