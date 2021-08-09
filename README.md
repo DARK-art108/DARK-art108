@@ -107,7 +107,7 @@ Along with my full-time job, I also work in maintaining and building open source
 
   
 ## 🎧 Spotify Playing 
-  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="550" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
+  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
   
   
 ## 📫 How to reach me? 
