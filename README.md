@@ -105,6 +105,13 @@ Along with my full-time job, I also work in maintaining and building open source
 
 </details>
 
+## 📊 My Kaggle Stats 
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/discussion)
+
   
 ## 🎧 Spotify Playing 
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
