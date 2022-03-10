@@ -119,7 +119,7 @@ Along with my full-time job, I also work in maintaining and building open source
   
 ## 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://ritesh-yadav.netlify.app/) 🌐 <br>
+  ⦿ Visit my [Website](https://DARK-art108.github.io/Ritesh_Yadav/) 🌐 <br>
   ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
   ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
