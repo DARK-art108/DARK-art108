@@ -69,7 +69,13 @@ Along with my full-time job, I also work in maintaining and building open source
 ### Databases
   
  <p float="left">
- <a href="https://www.mongodb.com/" target="_blank" >
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  </a>
+  <a href="https://www.timescale.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
 </p>
@@ -97,20 +103,25 @@ Along with my full-time job, I also work in maintaining and building open source
 
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/DARK-art108"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DARK-art108&theme=dracula" /></a>
-  <br/>
-
-</details>
-
-## 📊 My Kaggle Stats 
+<!-- ## 📊 My Kaggle Stats 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/discussion)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/discussion) -->
+
+## My Certifications 🏆
+
+ <p float="left">
+  <a href="https://www.credly.com/badges/d350d694-e003-41e1-b66a-ebf61861044c/public_url" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
+  </a>
+  <a href="https://www.credential.net/eb0860f4-f20d-4b14-98cd-5635efbf2304" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/6708850e-76a3-4aa7-8220-6edcc9d7874f.png" width="120" />
+  </a>&nbsp;&nbsp;
+</p>
+
+
 
   
 ## 🎧 Spotify Playing 
