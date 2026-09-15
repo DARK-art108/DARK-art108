@@ -3,9 +3,7 @@
 <h1 align="center">Hi , I'm Ritesh Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Ritesh](https://ritesh.cloud), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
+I am [Ritesh](https://ritesh.cloud), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in AI/ML, LLM's.
 
 I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
 
