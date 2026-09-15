@@ -9,7 +9,7 @@ I am [Ritesh](https://ritesh.cloud), a passionate and creative developer from [�
 
 I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
 
-I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 2 years. I have also contributed to some of the big projects like **@meshery** , **@Knative** , **@Porter**, **@Tensorflow**, **@Thanos**, etc.
+I am currently working as a AI/ML Engineer @[66degrees](https://66degrees.com/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 2 years. I have also contributed to some of the big projects like **@meshery** , **@Knative** , **@Porter**, **@Tensorflow**, **@Thanos**, etc.
 
 Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
 
